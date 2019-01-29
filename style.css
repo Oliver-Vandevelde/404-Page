@@ -1,0 +1,39 @@
+body{
+    background-color: grey;
+    font-family: Arial;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.page404{
+    font-style: bold;
+    font-size: 300px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.not{
+    text-align: center;
+    font-size: 75px;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.retour{
+    padding: 15px 15px;
+    border-radius: 10px;
+    font-size: 25px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    margin: 45%;
+    position: relative;
+    bottom: 0px;
+}
+.retour:hover{
+    background-color:lightgrey;
