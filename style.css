@@ -28,15 +28,15 @@ h1{
     padding: 15px 15px;
     border-radius: 10px;
     font-size: 25px;
-    background-color: black;
+    background-color: grey;
     text-decoration: none;
     color: white;
-    margin: 45%;
+    margin: 46%;
     position: relative;
     bottom: 0px;
 }
 .retour:hover{
-    background-color:lightgrey;
+    background-color: lightgrey;
 }
 #boulon{
     transition-property: transform; 
