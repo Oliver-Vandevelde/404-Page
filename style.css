@@ -40,7 +40,7 @@ h1{
 }
 #boulon{
     transition-property: transform; 
-    transition-duration: 5s; 
+    transition-duration: 10s; 
 }
 #boulon:hover{
     transform :rotate(360deg);
